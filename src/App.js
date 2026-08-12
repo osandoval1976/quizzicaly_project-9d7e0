@@ -1,5 +1,5 @@
 import './App.css';
-import './styles.css';
+import './App.css';
 import { useEffect, useState } from 'react';
 import shuffleArray from './Quizz';
 import { clsx } from 'clsx';
